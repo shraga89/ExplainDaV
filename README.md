@@ -1,4 +1,4 @@
-**Resources for Explain-Da-V under review for VLDB2023.**
+# Resources for *Explain-Da-V* under review for VLDB2023.
 
 <p align="center">
 <img src ="/example_table_annotated.jpg">
