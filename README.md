@@ -1,7 +1,7 @@
 **Resources for Explain-Da-V under review for VLDB2023.**
 
 <p align="center">
-<img src ="/example_table_annotated.pdf">
+<img src ="/example_table_annotated.jpg">
 </p>
 
 *This repository contains Data, Code, and Figure 11 (Section 7.3) in high resolution*
