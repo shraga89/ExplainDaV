@@ -1,6 +1,8 @@
 **Resources for Explain-Da-V under review for VLDB2023.**
 
-![running example](https://github.com/shraga89/ExplainDaV/blob/main/example_table_annotated.pdf?raw=true)
+<p align="center">
+<img src ="/example_table_annotated.pdf">
+</p>
 
 *This repository contains Data, Code, and Figure 11 (Section 7.3) in high resolution*
 
