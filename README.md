@@ -1,10 +1,12 @@
 # Resources for *Explain-Da-V* under review for VLDB2023.
 
+*This repository contains the [technical report](https://github.com/shraga89/ExplainDaV/blob/main/Explain_Da_V%20TR.pdf), Data, Code, and Figure 11 (Section 7.3) in high resolution*
+
 <p align="center">
 <img src ="/example_table_annotated.jpg">
 </p>
 
-*This repository contains the [technical report](https://github.com/shraga89/ExplainDaV/blob/main/Explain_Da_V%20TR.pdf), Data, Code, and Figure 11 (Section 7.3) in high resolution*
+
 
 **Data:**
 
