@@ -4,7 +4,7 @@
 <img src ="/example_table_annotated.jpg">
 </p>
 
-*This repository contains Data, Code, and Figure 11 (Section 7.3) in high resolution*
+*This repository contains the [technical report](https://github.com/shraga89/ExplainDaV/blob/main/Explain_Da_V%20TR.pdf), Data, Code, and Figure 11 (Section 7.3) in high resolution*
 
 **Data:**
 
@@ -24,5 +24,3 @@ Reproducible Code will be provided upon acceptance. Currently, the code provided
 * [Generalizability](https://github.com/shraga89/ExplainDaV/blob/main/Figures/generalizability_ablation.pdf)
 * [Conciseness](https://github.com/shraga89/ExplainDaV/blob/main/Figures/conciseness_ablation.pdf)
 * [Concentration](https://github.com/shraga89/ExplainDaV/blob/main/Figures/concentration_ablation.pdf)
-
-**A [technical report](https://github.com/shraga89/ExplainDaV/blob/main/Explain_Da_V%20TR.pdf) of the work is available **
