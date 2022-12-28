@@ -1,11 +1,13 @@
 
 # *Explain-Da-V* - Explaining Dataset Changes for Semantic Data Versioning
 
+***Explain-Da-V** is a framework aiming to explain changes between two given dataset versions. Explain-Da-V generates explanations that use data transformations to explain changes.*
+
 <p align="center">
 <img src ="/example_table_annotated.jpg">
 </p>
 
-***Explain-Da-V** is a framework aiming to explain changes between two given dataset versions. Explain-Da-V generates explanations that use data transformations to explain changes.*
+
 
 ## The Paper
 [*Explaining Dataset Changes for Semantic Data Versioning with Explain-Da-V*](https://github.com/shraga89/ExplainDaV/blob/main/Explain_Da_V_TR.pdf)
