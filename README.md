@@ -56,6 +56,7 @@ The code framework uses two existing systems, namely metanome and Foofah (both a
 ## The Team
 *Explain-Da-V* was developed at the [Data Lab](https://db.khoury.northeastern.edu/), [Northeastern University](https://www.northeastern.edu/) by [Dr. Roee Shraga](https://sites.google.com/view/roee-shraga/) and [Prof. Ren\'ee J. Miller](https://www.khoury.northeastern.edu/people/renee-miller/).
 
+---------
 **The repository also contains Ablation Study Plots (Figure 11, Section 7.3):**
 * [Validity](https://github.com/shraga89/ExplainDaV/blob/main/Figures/validity_ablation.pdf)
 * [Generalizability](https://github.com/shraga89/ExplainDaV/blob/main/Figures/generalizability_ablation.pdf)
