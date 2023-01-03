@@ -25,7 +25,7 @@ TBD
 
 ### Installation
 
- 0. Download and extract the [**Semantic Data Versioning Benchmark (SDVB)**](https://github.com/shraga89/ExplainDaV/tree/main/Semantic%20Data%20Versioning%20Benchmark%20(SDVB)
+ 0. Download and extract the **[Semantic Data Versioning Benchmark](https://github.com/shraga89/ExplainDaV/tree/main/Semantic%20Data%20Versioning%20Benchmark%20\%28SDVB%29)**  
 	0.1 For BYOD (bring your own data), please follow the format of SDVB
  1. Clone [Explain-Da-V repository](https://github.com/shraga89/ExplainDaV/tree/main/Explain-Da-V)  
 	 1.1. Add three empty directories named `results` (stores functional dependencies), `temp`, and `output` (will hold the results of Explain-Da-V)  
@@ -54,7 +54,7 @@ The code framework uses two existing systems, namely metanome and Foofah (both a
 
 
 ## The Team
-*Explain-Da-V* was developed at the [Data Lab](https://db.khoury.northeastern.edu/), [Northeastern University](https://www.northeastern.edu/) by [Roee Shraga](https://sites.google.com/view/roee-shraga/) and [Prof. Ren\'ee J. Miller](https://www.khoury.northeastern.edu/people/renee-miller/).
+*Explain-Da-V* was developed at the [Data Lab](https://db.khoury.northeastern.edu/), [Northeastern University](https://www.northeastern.edu/) by [Dr. Roee Shraga](https://sites.google.com/view/roee-shraga/) and [Prof. Ren\'ee J. Miller](https://www.khoury.northeastern.edu/people/renee-miller/).
 
 **The repository also contains Ablation Study Plots (Figure 11, Section 7.3):**
 * [Validity](https://github.com/shraga89/ExplainDaV/blob/main/Figures/validity_ablation.pdf)
